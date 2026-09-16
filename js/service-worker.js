@@ -1,8 +1,8 @@
-const CACHE_NAME = 'cache-v40';
+const CACHE_NAME = 'cache-v41';
 const RESOURCES_TO_PRECACHE = [
-    'css/normalize.css?v40',
-    'css/styles.css?v40',
-    'js/script.js?v40',
+    'css/normalize.css?v41',
+    'css/styles.css?v41',
+    'js/script.js?v41',
 ];
 
 self.addEventListener('install', function (event) {
