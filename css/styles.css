@@ -100,7 +100,7 @@ body {
 }
 
 .musica_texto {
-    color: var(--color-titulos);
+    color: #ffff;
     font-size: 0.7em;
     margin-bottom: 25px;
     letter-spacing: 0.5px;
