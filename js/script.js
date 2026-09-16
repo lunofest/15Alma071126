@@ -220,8 +220,8 @@ botones_copiar.forEach(boton => {
 
 
 // Números de confirmación (Independientes de la playlist)
-const NUMERO_CONFIRMACION_FLORENCIA = '5411128496921';
-const NUMERO_CONFIRMACION_BARBARITA = '5411128496921';
+const NUMERO_CONFIRMACION_FLORENCIA = '541128496921';
+const NUMERO_CONFIRMACION_BARBARITA = '541128496921';
 
 // Variables para almacenar el estado de selección
 let seleccionActual = null;
